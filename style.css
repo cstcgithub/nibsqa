@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  background: #fff;
+  color: #111;
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+nav {
+  position: fixed;
+  top: 40px;
+  left: 40px;
+  font-size: 16px;
+}
+
+nav a {
+  color: #111;
+  text-decoration: none;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+main {
+  max-width: 680px;
+  margin: 80px auto;
+  padding: 0 24px;
+}
